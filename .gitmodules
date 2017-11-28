@@ -1,3 +1,27 @@
 [submodule "ft_ls"]
 	path = ft_ls
 	url = https://github.com/doueng/ft_ls
+[submodule "fillit"]
+	path = fillit
+	url = https://github.com/doueng/fillit
+[submodule "libft"]
+	path = libft
+	url = https://github.com/doueng/libft
+[submodule "get-next-line"]
+	path = get-next-line
+	url = https://github.com/doueng/get-next-line
+[submodule "printf"]
+	path = printf
+	url = https://github.com/doueng/printf
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/doueng/push_swap
+[submodule "lem_in"]
+	path = lem_in
+	url = https://github.com/doueng/lem_in
+[submodule "corewar"]
+	path = corewar
+	url = https://github.com/doueng/corewars
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/doueng/minishell
