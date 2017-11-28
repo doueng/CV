@@ -19,9 +19,6 @@
 [submodule "lem_in"]
 	path = lem_in
 	url = https://github.com/doueng/lem_in
-[submodule "corewar"]
-	path = corewar
-	url = https://github.com/doueng/corewars
 [submodule "minishell"]
 	path = minishell
 	url = https://github.com/doueng/minishell
