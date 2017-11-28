@@ -19,9 +19,6 @@
 [submodule "corewars"]
 	path = corewars
 	url = https://github.com/doueng/corewars
-[submodule "get-next-line"]
-	path = get-next-line
-	url = https://github.com/doueng/get-next-line
 [submodule "minishell"]
 	path = minishell
 	url = https://github.com/doueng/minishell
