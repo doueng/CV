@@ -7,9 +7,6 @@
 [submodule "libft"]
 	path = libft
 	url = https://github.com/doueng/libft
-[submodule "get-next-line"]
-	path = get-next-line
-	url = https://github.com/doueng/get-next-line
 [submodule "printf"]
 	path = printf
 	url = https://github.com/doueng/printf
@@ -25,3 +22,6 @@
 [submodule "corewars"]
 	path = corewars
 	url = https://github.com/doueng/corewars
+[submodule "get-next-line"]
+	path = get-next-line
+	url = https://github.com/doueng/get-next-line
