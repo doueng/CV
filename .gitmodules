@@ -22,3 +22,6 @@
 [submodule "minishell"]
 	path = minishell
 	url = https://github.com/doueng/minishell
+[submodule "corewars"]
+	path = corewars
+	url = https://github.com/doueng/corewars
