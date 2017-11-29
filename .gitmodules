@@ -22,3 +22,6 @@
 [submodule "get-next-line"]
 	path = get-next-line
 	url = https://github.com/doueng/get-next-line
+[submodule "corewar"]
+	path = corewar
+	url = https://github.com/doueng/corewar
