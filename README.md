@@ -22,4 +22,4 @@ using only predefined stack operations.
 ## [lem-in](https://github.com/doueng/lem_in)
 Used breadth first search to find the shortest path through an anthill.
 ## [corewar](https://github.com/doueng/corewar)
-In a group of four people we made our own Matrix inspired version of the game Corewar.
+In a group of four people we made our own Matrix themed version of the game Corewar.
