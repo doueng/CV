@@ -4,7 +4,7 @@ These are the projects that I have completed during my time at 42.
 The projects are all written in accordance to the school style guide.
 The style guide prohibites things like do-while loops, switch statements,
 for loops and alot of other things. The style guide is included as a pdf
-in this repository (norm.en.pdf).
+in this repository (norme.en.pdf).
 
 
 ## [libft](https://github.com/doueng/libft)
