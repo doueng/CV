@@ -33,5 +33,6 @@ To run the game you have to install libsndfile which is easiest done on mac with
 Then add the absolute path of the library to the makefile in the vm folder.
 
 Example :
+
 LIBSND = /usr/local/Cellar/libsndfile/1.0.28/lib/libsndfile.1.dylib
 
