@@ -1,4 +1,3 @@
-hello
 <br/>
 
 ## Education
