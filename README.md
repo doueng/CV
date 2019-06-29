@@ -39,7 +39,7 @@ Two week immersion in ocaml.
 ## cloud1
 Hosted a wordpress website on AWS with a loadbalancer, database, CDN and auto-scaling.
 ## [libft](https://github.com/doueng/libft)
-Created my own library where I recoded alot of standard functions and
+Created my own library where I recoded some basic C functions and
 added some of my own.
 ## [fillit](https://github.com/doueng/fillit)
 A two person group project. Used recursive backtracking to find
