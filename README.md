@@ -1,12 +1,43 @@
 # 42_projects
 
 These are the projects that I have completed during my time at 42.
-The projects are all written in accordance to the school style guide.
-The style guide prohibites things like do-while loops, switch statements,
-for loops and alot of other things. The style guide is included as a pdf
+The projects are all written in accordance with the school style guide.
+The style guide prohibites do-while loops, switch statements,
+for loops and a lot of other things. The style guide is included as a pdf
 in this repository (norme.en.pdf).
 
-
+## [nm-otool](https://github.com/doueng/nm-otool)
+Recoded the nm and otool -t commands for macho-o binaries.
+## [malloc](https://github.com/doueng/malloc)
+Recoded malloc.
+## [ft_linux] (http://www.linuxfromscratch.org/lfs/view/stable)
+Completed Linux from Scratch.
+## [little-penguin](https://github.com/doueng/little-penguin)
+Learning the basics of linux kernel modules using my own linux from scratch distro.
+## [Override](https://github.com/doueng/override)
+CTFs covering how to hack binaries. Used python and gdb to solve the levels.
+## [Rainfall](https://github.com/doueng/rainfall)
+CTFs covering how to hack binaries. Used python and gdb to solve the levels.
+## [Snow-crash](https://github.com/doueng/snow-crash)
+CTFs covering diffrent privilege escalation techniques.
+## [ft_ssl](https://github.com/doueng/ft_ssl)
+Wrote a program that can perform MD5 and sha-256 hashes.
+## [ft_quine](https://github.com/doueng/ft_quine)
+Wrote three diffrent kinds of quines in three different languages (C, ASM, Clojure).
+## [ft_asm](https://github.com/doueng/ft_asm)
+Recoded some basic C functions in asm.
+## [ft_p](https://github.com/doueng/ft_p)
+Created client and server ftp programs.
+## [ft_traceroute](https://github.com/doueng/ft_traceroute)
+Recoded traceroute.
+## [ft_ping](https://github.com/doueng/ft_ping)
+Recoded ping.
+## [cpv1](https://github.com/doueng/cpv1)
+A basic calculator written in Clojure that can perform second degree polynomial calculations.
+## [piscineocaml](https://github.com/doueng/piscineocaml)
+Two week immersion in ocaml.
+## cloud1
+Hosted a wordpress website on AWS with a loadbalancer, database, CDN and auto-scaling.
 ## [libft](https://github.com/doueng/libft)
 Created my own library where I recoded alot of standard functions and
 added some of my own.
