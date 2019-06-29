@@ -1,3 +1,23 @@
+# Education
+## 42, Paris — Computer science
+2017 - 2020
+## Udacity Nanodegree — Android development
+2016
+Gained knowledge of OOP and Android development.
+## University of Helsinki — MOOCs
+2016
+Completed courses on Clojure, Java and C.
+## Uppsala University — Bachelor of Science in Business and Economics
+2014 - 2016
+Completed two years out of a three year degree.
+
+# Internship
+## Mobgen, Amsterdam
+For six months in 2018 I was an intern at the Mobgen Lab in Amsterdam.
+
+# Skills
+C, Linux, Javascript, Python, Clojure, Ocaml, Bash and Git.
+
 # 42_projects
 
 These are the projects that I have completed during my time at 42.
