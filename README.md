@@ -39,7 +39,7 @@ For six months in 2018 I was an intern at the Mobgen Lab in Amsterdam.
 </br>
 
 ## Skills
-C, Linux, Javascript, Python, Clojure, Ocaml, Bash and Git.
+C, Linux, Javascript, Python, ASM, Clojure, Ocaml, Bash and Git.
 
 ---
 
