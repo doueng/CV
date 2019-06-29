@@ -10,7 +10,7 @@ in this repository (norme.en.pdf).
 Recoded the nm and otool -t commands for macho-o binaries.
 ## [malloc](https://github.com/doueng/malloc)
 Recoded malloc.
-## [ft_linux] (http://www.linuxfromscratch.org/lfs/view/stable)
+## [ft_linux](http://www.linuxfromscratch.org/lfs/view/stable)
 Completed Linux from Scratch.
 ## [little-penguin](https://github.com/doueng/little-penguin)
 Learning the basics of linux kernel modules using my own linux from scratch distro.
