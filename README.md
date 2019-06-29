@@ -1,4 +1,4 @@
-<p align="center"><Douglas Engstrand></p>
+<p align="center">Douglas Engstrand</p>
 <br/>
 
 ## Education
