@@ -1,4 +1,5 @@
 <h1 align="center">Douglas Engstrand</h1>
+<h2 align="center">Computer science student seeking an internship</h2>
 <br/>
 
 ## Education
